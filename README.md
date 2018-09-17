@@ -48,4 +48,4 @@ sh converter.sh input ouput mp3
 
 ## Acknowledgments
 
-* [kn007]https://github.com/kn007
+* [kn007](https://github.com/kn007)
