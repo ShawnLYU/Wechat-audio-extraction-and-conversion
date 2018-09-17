@@ -9,9 +9,7 @@ For simplicity, the whole process will be shown as below.
 
 ### Prerequisites
 
-```
 [Homebrew](https://brew.sh/)
-```
 
 ### Deplyment
 
