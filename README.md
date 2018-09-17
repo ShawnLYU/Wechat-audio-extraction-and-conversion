@@ -36,12 +36,12 @@ Then you may navigete into it and select ether Favorites or Message, and followi
 
 * Start converting
 Learning from [kn007](https://github.com/kn007), you may:
-** Convert one file at a time
+Convert one file at a time
 ```
 sh converter.sh silk_v3_file/input_folder output_format/output_folder flag(format)
 ```
 or
-** Convert in batches
+Convert in batches
 ```
 sh converter.sh input ouput mp3
 ```
