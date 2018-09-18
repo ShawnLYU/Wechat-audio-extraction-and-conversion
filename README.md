@@ -1,6 +1,6 @@
 # wechat_audio_conversion
 
-This integrates tools and knowledges to convert wechat audio into mp3 format for storage purpose (MacOS).
+This integrates tools and knowledges to convert WeChat audio into mp3 format for storage purpose (MacOS). With the following instruction, you may easily save WeChat audio messages from your iPhone/Mac in a friendlier format.
 
 
 ## Getting Started
