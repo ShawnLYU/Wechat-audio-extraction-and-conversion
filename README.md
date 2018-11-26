@@ -38,7 +38,7 @@ Then you may navigete into it and select ether Favorites or Message, and followi
 Learning from [kn007](https://github.com/kn007), you may:
 Convert one file at a time
 ```
-sh converter.sh silk_v3_file/input_folder output_format/output_folder flag(format)
+sh converter.sh input_folder output_folder flag(format)
 ```
 or
 Convert in batches
